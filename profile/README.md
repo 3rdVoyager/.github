@@ -8,9 +8,9 @@ I'm a web developer and a student at the **University of Maryland**. I enjoy bui
 
 **[RapidRoster:](https://github.com/3rdVoyager/rapid-roster)** A roster optimization tool designed to help generate balanced rosters from rules quickly and efficiently.  
 
-**[OffScript:](https://github.com/3rdVoyager/offscript)** A line memorization tool built to help theater groups practice. [Website](offscript.pages.dev)
+**[OffScript:](https://github.com/3rdVoyager/offscript)** A line memorization tool built to help theater groups practice. [Website](https://off-script.pages.dev)
 
-**[HST Website:](https://github.com/HST-Cultural-Arts/hst-website)** A static astro site for a local theater group. [Website](new.hstonline.org)
+**[HST Website:](https://github.com/HST-Cultural-Arts/hst-website)** A static astro site for a local theater group. [Website](https://new.hstonline.org)
 
 ### Technologies & Tools
 
